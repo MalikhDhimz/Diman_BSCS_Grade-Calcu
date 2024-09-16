@@ -12,3 +12,5 @@ venv\Scripts\activate
 Add the app code to run app.py.
 
 4. run the app: python app.py
+
+5. The app will be available at http://localhost:5000. Enter your Prelim grade to see the required Midterm and Final grades.
